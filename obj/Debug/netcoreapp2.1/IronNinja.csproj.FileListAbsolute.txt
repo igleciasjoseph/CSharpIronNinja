@@ -1,0 +1,11 @@
+/Users/kratos/Desktop/C#/IronNinja/bin/Debug/netcoreapp2.1/IronNinja.deps.json
+/Users/kratos/Desktop/C#/IronNinja/bin/Debug/netcoreapp2.1/IronNinja.runtimeconfig.json
+/Users/kratos/Desktop/C#/IronNinja/bin/Debug/netcoreapp2.1/IronNinja.runtimeconfig.dev.json
+/Users/kratos/Desktop/C#/IronNinja/bin/Debug/netcoreapp2.1/IronNinja.dll
+/Users/kratos/Desktop/C#/IronNinja/bin/Debug/netcoreapp2.1/IronNinja.pdb
+/Users/kratos/Desktop/C#/IronNinja/obj/Debug/netcoreapp2.1/IronNinja.csprojAssemblyReference.cache
+/Users/kratos/Desktop/C#/IronNinja/obj/Debug/netcoreapp2.1/IronNinja.csproj.CoreCompileInputs.cache
+/Users/kratos/Desktop/C#/IronNinja/obj/Debug/netcoreapp2.1/IronNinja.AssemblyInfoInputs.cache
+/Users/kratos/Desktop/C#/IronNinja/obj/Debug/netcoreapp2.1/IronNinja.AssemblyInfo.cs
+/Users/kratos/Desktop/C#/IronNinja/obj/Debug/netcoreapp2.1/IronNinja.dll
+/Users/kratos/Desktop/C#/IronNinja/obj/Debug/netcoreapp2.1/IronNinja.pdb
